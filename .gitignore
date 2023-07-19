@@ -1,0 +1,24 @@
+# Ignore preprocessed images
+preprocessed_student_images/
+preprocessed_class_images/
+
+# Ignore image files with common extensions
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.tiff
+*.tif
+*.ppm
+*.pgm
+*.pbm
+
+# Ignore any other image file extensions you might have
+# *.extension
+
+# Ignore any other directories or files that are generated during preprocessing
+# For example, if there are any temporary files or logs generated, you can exclude them
+# folder_name/
+# *.log
+# *.tmp
